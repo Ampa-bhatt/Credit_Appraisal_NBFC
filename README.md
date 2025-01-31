@@ -1,11 +1,12 @@
 # Credit_Appraisal_NBFC
 Train data claenning and Handling missing values
 Outlier Identfiaction and Outlier Removal
-Balancing Imbalanace Data set
+Balancing Imbalanace Data set by ovr sampling
 Train Data set to  splited in to train and  test 
 Test Data set to for understanging Data modelling
 Base Model creation
-Feature Selections 
+Feature Selections methods vif ,Extra tree clasifier
+new Model creation multiple model  creation with secected features .
 Model Performace evaluation based on Accuracy, precision, Recall, f Score and Area under curve
 Optimazation  & Model Hyperparameter tunning
 selecting  Best Model based on peformace and considered parameter as per Business case and problem statement
